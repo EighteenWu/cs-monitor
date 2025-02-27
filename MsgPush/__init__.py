@@ -1,0 +1,1 @@
+from .wx_bot_push import WxComBot

@@ -1,0 +1,56 @@
+[
+    {
+        "title": "《反恐精英》更新",
+        "link": "https://store.steampowered.com/news/app/730/view/520830071182721726",
+        "pubDate": "Tue, 04 Feb 2025 00:50:59 +0000",
+        "description": "[杂项]<br><ul class=\"bb_ul\"><li>修复了AUG的瞄准镜在水面附近模板过滤器的问题。<br></li><li>修复了在低分辨率下优先匹配进度条显示不正常的问题。<br></li><li>修复了当同时使用CMAA2(保守形态抗锯齿)和HDR(高动态范围)性能设置时，某些UI面板无法透明渲染的问题。<br></li><li>改进了动态雷达缩放比例，当新发现的敌人或C4进入雷达视野时，雷达会迅速调整大小；而当敌人或C4消失且经过足够时间后，雷达会逐渐缩小。<br></li><li>修复了雷达缩放设置UI，使其支持从0.25到1.0的完整雷达缩放范围。<br></li><li>修复了从列车停放站的检视风景返回主菜单时，音效未清除的问题。<br></li><li>修复了靠近墙壁时的错误预测平滑问题，以避免穿墙现象。<br></li><li>修复了在loopback=1的本地服务器上的布料模拟问题。</li></ul>"
+    },
+    {
+        "title": "《反恐精英》更新",
+        "link": "https://store.steampowered.com/news/app/730/view/520830071182721127",
+        "pubDate": "Thu, 30 Jan 2025 01:29:17 +0000",
+        "description": "[地图]<br><ul class=\"bb_ul\"><li>冰火岛<br>-已更新至社区工坊的最新版本（附更新说明<a class=\"bb_link\" href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fsteamcommunity.com%2Fsharedfiles%2Ffiledetails%2Fchangelog%2F3329258290%3Fsnr%3D%EF%BC%89%E3%80%82\" target=\"_blank\" rel=\" noopener\" >https://steamcommunity.com/sharedfiles/filedetails/changelog/3329258290?snr=）。</a></li></ul>[杂项]<br><ul class=\"bb_ul\"><li>优先模式第二赛季进度指示器已在游戏菜单中激活。<br></li><li>修复了AUG/SG553瞄准镜图形的回归问题。</li></ul>"
+    },
+    {
+        "title": "你好，新赛季",
+        "link": "https://store.steampowered.com/news/app/730/view/520830071182721028",
+        "pubDate": "Tue, 28 Jan 2025 23:42:04 +0000",
+        "description": "欢迎来到优先模式第二赛季。 <br><br>如果你还没有听到这个消息，这里有一些第二赛季的新内容。 大厦拆，火车来，M4A4更可…… 便宜买……以及，我们还对法玛斯进行了调整。 <br><br>第二赛季从现在开始，一直持续到奥斯汀Major，届时符合条件的玩家将获得优先模式第二赛季奖牌。 奖牌颜色取决于你在本赛季中取得的最高CS综合得分，条块代表了你的胜利场次，每25场胜利点亮一个条块，最多5个。<br><br>要获得“优先模式第二赛季奖牌”，您需要保持游戏账户信用良好、取得25场优先模式胜利以及赛季结束时仍然有效的CS综合得分。<br><br>优先模式匹配现已开放，赶紧加入队列，开始累积胜利吧！"
+    },
+    {
+        "title": "《反恐精英》更新",
+        "link": "https://store.steampowered.com/news/app/730/view/520829437562848528",
+        "pubDate": "Tue, 28 Jan 2025 00:56:50 +0000",
+        "description": "[优先模式]<br><ul class=\"bb_ul\"><li>CS官方服务器优先模式第一赛季现已结束，优先模式匹配暂时关闭。</li></ul>"
+    },
+    {
+        "title": "赛季更替",
+        "link": "https://store.steampowered.com/news/app/730/view/520829437562848128",
+        "pubDate": "Sat, 25 Jan 2025 00:15:34 +0000",
+        "description": "<img src=\"https://clan.fastly.steamstatic.com/images/3381077/752a115784870febdc4da7bf1b4bd2fdaea0d3d5.png\" /><br>下周我们将告别CS官匹优先第一赛季，迎来第二赛季。 为了庆祝这一时刻，每位在第一赛季中获得CS综合得分的玩家都将得到一枚第一赛季纪念奖章。 您的奖牌包含详细的赛季统计数据，您可以点击库存中的奖牌查看。 通过奖牌查看你CSR和游戏时间的变化，或者查看特定地图的统计数据，为第二赛季找到需要改进的地方。<br><br>当我们过渡到第二赛季时，您的CS综合得分将根据您第一赛季的表现在新赛季中进行重新校准。 新赛季开始时，您需要通过赢得10场比赛来重新建立您的CS综合得分。<br><br><video class=\"bb_video bb_video_autoplay bb_video_loop\" poster=\"https://clan.fastly.steamstatic.com/images/3381077/d495453498221843cfda536124bcc4fcc900047b.png\" muted autoplay loop src=\"\"></video></video><br>第二赛季有一些变化。 火车加入比赛图池，殒命大厦被移除，M4A4的价格有所下降，法玛斯的站立和蹲下精度有所提高（同时价格也有所下降）。<br><br>第二赛季将在奥斯汀Major之后结束，达到条件的玩家可以获得第二赛季奖牌。 奖牌颜色取决于你在本赛季中取得的最高CS综合得分，条块代表了你的胜利场次，每25场胜利点亮一个条块，最多5个。<br><br>要获得“优先模式第二赛季奖牌”，您需要保持游戏账户信用良好、取得25场优先模式胜利以及赛季结束时仍然有效的CS综合得分。<br><br>请清空您的日程，因为第二赛季即将开始！<br><br><br>"
+    },
+    {
+        "title": "《反恐精英》更新",
+        "link": "https://store.steampowered.com/news/app/730/view/748263301754912773",
+        "pubDate": "Thu, 13 Feb 2025 23:58:46 +0000",
+        "description": "[用户界面]<br><ul class=\"bb_ul\"><li>调整了购买菜单和游戏内HUD之间共享的UI元素的大小和缩放比例。<br></li><li>修复了CSTV观战时护甲的显示错误。<br></li><li>更新了替换的AK-47检视动画。</li></ul><br>[创意工坊]<br><ul class=\"bb_ul\"><li>将CS创意工坊中支持地图上传的上限提高到3GB。</li></ul>"
+    },
+    {
+        "title": "《反恐精英》更新",
+        "link": "https://store.steampowered.com/news/app/730/view/523080783919841380",
+        "pubDate": "Fri, 17 Jan 2025 01:07:51 +0000",
+        "description": "[杂项]<br><ul class=\"bb_ul\"><li>将Linux系统下游戏服务器的Steam库更新为最新版本的Steam客户端测试版<br></li><li>改进Linux系统下游戏服务器在断开连接后重新连接Steam的能力<br></li><li>稳定性改善</li></ul>"
+    },
+    {
+        "title": "《反恐精英》更新",
+        "link": "https://store.steampowered.com/news/app/730/view/520830071182721026",
+        "pubDate": "Tue, 28 Jan 2025 23:40:47 +0000",
+        "description": "[优先模式]<br><ul class=\"bb_ul\"><li>官方服务器优先模式第二赛季已经到来，优先模式匹配已经恢复<br></li><li>每位在第一赛季中获得CS综合评分的玩家都将获得一枚第一赛季纪念奖牌，其中包含详细的赛季统计数据<br></li><li>每位玩家的CS综合评分都将根据他们在第一赛季的表现重新调整，并需要通过赢得10场比赛来重新评定<br></li><li>列车停放站已添加到现役地图池中<br></li><li>殒命大厦已从现役地图池中移除游戏</li></ul><br>[游戏玩法]<br><ul class=\"bb_ul\"><li>M4A4价格降至2900美元<br></li><li>FAMAS精准度提高，价格降至1950美元<br></li><li>降低了MP9、MP5-SD和MP7的下蹲精度<br></li><li>调整了AUG/SG553的瞄准镜圆点准星，使其在射程范围内更加实用</li></ul><br>[用户界面]<br><ul class=\"bb_ul\"><li>添加了新的雷达动态缩放选项，可放大或缩小雷达，以及包括队友、C4和其他被探测到的元素<br></li><li>调整了观战用户界面中的投掷物顺序，以匹配武器选择顺序<br></li><li>提高了用户界面中携带的C4的亮度</li></ul><br>[地图]<br>列车停放站<br><ul class=\"bb_ul\"><li>移除了楼梯间至A包点的高架角度<br></li><li>修复了双面材料上的光照瑕疵</li></ul><br>[杂项]<br><ul class=\"bb_ul\"><li>添加了回退逻辑，允许播放不完整的demo，这些demo既可以是从实时比赛中复制的，也可以是在游戏服务器崩溃后恢复的<br></li><li>修复了一个BUG，用户可以在R8左轮手枪上使用右键射击，然后将其退回<br></li><li>急停总结现在在控制台日志之外，可以通过日志地址分发的游戏服务器日志数据中使用</li></ul>"
+    },
+    {
+        "title": "《反恐精英》更新",
+        "link": "https://store.steampowered.com/news/app/730/view/520829437562847236",
+        "pubDate": "Wed, 22 Jan 2025 00:46:28 +0000",
+        "description": "[杂项]<br><ul class=\"bb_ul\"><li>针对某些受CPU限制的情况进行了小幅性能优化。<br></li><li>如果被观察者的准星已显示，那么观战时的后坐力设置会遵循被观察者的准星设置。<br></li><li>已添加对Steam创意工坊上现有地图注释的更新支持。 例如，使用“workshop_annotation_submit 123456 ”更新您在工作室 URL中找到的提交ID=123456。 传递一个不属于您的ID将创建一个全新的提交。 首次更新后，ID将嵌入注释文件，您可以提交更多更改而无需再次提供ID。</li></ul>"
+    }
+]
