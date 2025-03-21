@@ -1,6 +1,9 @@
 # -*- coding: utf-8 -*-
 import json
 import logging
+
+from django.middleware.csrf import get_token
+
 from .exceptions import SendError, WxComError
 from datetime import datetime, timedelta
 import requests
@@ -40,6 +43,7 @@ class WxComBot(object):
         self.expires_at = now + timedelta(seconds=data['expires_in'])
         self.token = data['access_token']
         self.logger.info('获取 token 成功')
+        return self.token
 
     def _send_msg(self, form_data: dict, **kwargs):
         if not form_data.get('touser') and not form_data.get('toparty') and not form_data.get('totag'):
