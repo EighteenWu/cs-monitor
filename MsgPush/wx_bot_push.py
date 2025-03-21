@@ -2,8 +2,6 @@
 import json
 import logging
 
-from django.middleware.csrf import get_token
-
 from .exceptions import SendError, WxComError
 from datetime import datetime, timedelta
 import requests
